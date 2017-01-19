@@ -14,8 +14,10 @@ public class Week2Sem2 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         System.out.print("Hello  GitHub World");
+        System.out.print("I made it Succesfully. Here I go GITHUB");
     }
     
 }
